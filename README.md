@@ -1,6 +1,6 @@
 SO PEKOCKO _ API
 
-git clone https://github.com/Iamglads/projet_6-so-pekocko.git
+git clone https://github.com/Iamglads/projet_6.git
 
 1) run server
 
