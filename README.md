@@ -16,6 +16,9 @@ git clone https://github.com/Iamglads/projet_6-so-pekocko.git
 * ng serve
 
 
+3) open http://localhost:4200/
+
+
 
 
 
